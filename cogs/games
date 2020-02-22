@@ -1,0 +1,30 @@
+import random
+
+
+print('-*-*-*-*-*-*-* Welcome to the game *-*-*-*-*-*- \n')
+def play():
+    score_u = 0
+    score_pc = 0
+    while((score_u < 3) and (score_pc < 3)):
+        pc = random.randint(0,2)
+        pc2 = -(pc)
+        list = ['paper','cutter','rock']
+        user = int(input('enter 0 for the paper, 1 for the cutter or 2 for the rock \n'))
+        final = pc2 + user
+        if (final == -2 or final == 1):
+            print('you won i have chosed the', list[pc])
+            score_u += 1
+        if (final == -1 or final == 2):
+            print('you lost i have chosed the', list[pc])
+            score_pc += 1
+        if (final == 0):
+            print('equals, try again i have chosed the', list[pc])
+    
+    print('we have a winner here ','score_pc :',score_pc,'your score :',score_u)
+    desicion = int(input('wanna play again ? press 1 \n'))
+    if desicion == 1:
+        play()
+    else:
+        print('go to hell')
+        quit()
+play()
