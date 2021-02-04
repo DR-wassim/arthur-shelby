@@ -1,2 +1,18 @@
-git+https://github.com/Rapptz/discord.py
-async-timeout
+discord.py
+youtube_dl
+riotwatcher
+requests
+aiofiles
+google-cloud-translate==1.7.0
+colour
+# mastercard-api-core
+git+https://github.com/DR-wassim/mastercard_billpayapi
+luhn
+asyncio
+discord.py[voice]
+praw
+lyricsgenius
+Pillow
+qrcode[PIL]
+facebook-sdk
+asyncio

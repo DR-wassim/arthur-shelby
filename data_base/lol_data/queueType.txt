@@ -1,0 +1,7 @@
+Unranked
+    RANKED_SOLO_5x5
+    RANKED_TEAM_5x5
+Ranked Solo/Duo
+    RANKED_SOLO_5x5
+Ranked Team 5x5
+    RANKED_TEAM_5x5

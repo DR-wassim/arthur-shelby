@@ -1,0 +1,52 @@
+{
+    "sousse": {
+        "now": {
+            "coord": {
+                "lon": 10.64,
+                "lat": 35.83
+            },
+            "weather": [
+                {
+                    "id": 802,
+                    "main": "Clouds",
+                    "description": "scattered clouds",
+                    "icon": "03d"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 300.61,
+                "feels_like": 303.36,
+                "temp_min": 299.15,
+                "temp_max": 301.48,
+                "pressure": 1016,
+                "humidity": 74
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 3.1,
+                "deg": 20
+            },
+            "clouds": {
+                "all": 40
+            },
+            "dt": 1593425506,
+            "sys": {
+                "type": 1,
+                "id": 1193,
+                "country": "TN",
+                "sunrise": 1593403440,
+                "sunset": 1593455860
+            },
+            "timezone": 3600,
+            "id": 2464915,
+            "name": "Sousse",
+            "cod": 200
+        },
+        "forcast": null,
+        "forecast": {
+            "cod": 401,
+            "message": "Invalid API key. Please see http://openweathermap.org/faq#error401 for more info."
+        }
+    }
+}

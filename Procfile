@@ -1,1 +1,1 @@
-worker: python bot.py
+worker: python Arthur_brain.py

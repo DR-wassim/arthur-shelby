@@ -1,0 +1,87 @@
+{
+    "computer" : {
+        "description" : "you can post memes and earn money with it",
+        "price" : 1000 ,
+        "type" : "Item"
+    },
+    "Chill Pill" : {
+        "description" : "Just take a chill pill and relax, sheesh",
+        "price" : 10 ,
+        "type" : "Collectable"
+    },
+    "m4-16" : {
+        "description" : "a high functional automatic rifle",
+        "price" : 100 ,
+        "type" : "Item"
+    },
+    "Magic Book" : {
+        "description" : "Old book contain spells and magic",
+        "price" : 1000 ,
+        "type" : "Item"
+    },
+    "Dragon egg" : {
+        "description" : "with a lot of care, you can have a real dragon",
+        "price" : 2000 ,
+        "type" : "Collectable"
+    },
+    "Traveler map" : {
+        "description" : "what a about an old map which can get you wherever you want ?",
+        "price" : 750 ,
+        "type" : "Item"
+    },
+    "Coffee" : {
+        "description" : "a drink which gives you the ability of staying awake for ages",
+        "price" : 75 ,
+        "type" : "Item"
+    },
+    "Fire swoard" : {
+        "description" : "made by the master of fire, giving the ability to control it",
+        "price" : 10000 ,
+        "type" : "Item"
+    },
+    "Ice swoard" : {
+        "description" : "from the core of the old mountain, you have the snow under your command",
+        "price" : 10000 ,
+        "type" : "Item"
+    },
+    "Air swoard" : {
+        "description" : "Found in the ashes of the fallen sky kingdom,let them feel your coming winds",
+        "price" : 10000 ,
+        "type" : "Item"
+    },
+    "Earth soward" : {
+        "description" : "with the soul of the enchanted forest, make an earthshake with a clear spirit",
+        "price" : 10000 ,
+        "type" : "Item"
+    },
+    "Silent death" : {
+        "description" : "Tired from supporting someone, let the poisen do the job",
+        "price" : 1500,
+        "type" : "Collectable"
+    },
+    "Giant horse" : {
+        "description" : "wanna wonder the city in flash light ? here is your trasnport",
+        "price" : 2500,
+        "type" : "Collectable"
+    },
+    "House keeper" : {
+        "description" : "don't want to be embarrased in front of your guests, this lady will take care of your palace",
+        "price" : 3000,
+        "type" : "Collectable"
+    },
+    "Recover soup" : {
+        "description" : "Who said that death can't be beaten, huh he's wrong",
+        "price" : 4300,
+        "type" : "Item"
+    },
+    "Teleportation gun" : {
+        "description" : "you can go to the battle or ... make the battle come to you",
+        "price" : 2700 ,
+        "type" : "Item"
+    },
+    "Music device" : {
+        "description" : "only the perfect notes can make you feel yourself again",
+        "price" : 1000 ,
+        "type" : "Collectable"
+    }
+}
